@@ -1,0 +1,45 @@
+.gradient-bg{
+    background-color: #2a2a72;
+    background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+}
+.navibar{
+    background-color: #009ffd;
+}
+
+h1{
+    color: #fff;
+}
+
+h2{
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+}
+
+p{
+    color: black;
+}
+
+#img{
+    text-align:center;
+    border-radius: 30%;
+}
+
+#skill-section{
+    color:#19A7CE;
+}
+#skill-section > div > p{
+    color:black;
+}
+
+#get-touch{
+    margin-top: 0;
+}
+
+#footer{
+    padding-top: 20px;
+}
+
+a.footer-link{
+    color: rgb(232, 227, 243);
+}
